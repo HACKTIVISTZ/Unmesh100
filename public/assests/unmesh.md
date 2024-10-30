@@ -7,11 +7,11 @@
 <td width="100%" align="left">
 
 - 🔭 I’m currently working on `Fullstack` Development and `CP`.
-- 🌱 I’m currently learning `Web3` and `Devops`
+- 🌱 I’m currently learning `Web3` and `Devops` .
 - 👯 I’m looking to collaborate with Web 3 and Fullstack Developers.
 - 🤔 I’m looking for help with Web-3 projects.
 - ⚙️ I use daily: `.js`, `.java`, `.jsx`, `.ts`
-- 💬 Ping me about **CP**, **Fullstack Development**, **Devops**, **Web3**
+- 💬 Ping me about **CP**, **Fullstack Development**, **Devops**, **Web3** .
 
 </td>
 
